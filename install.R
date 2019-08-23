@@ -1,3 +1,4 @@
+install.packages("devtools")
 install_github("SantanderMetGroup/loadeR")
 install_github("SantanderMetGroup/transformeR")
 install_github("SantanderMetGroup/downscaleR")
